@@ -129,6 +129,8 @@ this is a good thing... <img src="/resources/good_driver1.jpg"/><br/>
 
 <img src="/resources/video_decoder_needs_an_update_or_scrambled_input.jpg"/><br/>
 
+<img src="/resources/disable_video_acceleration_might_help_with_invalid_picture.jpg"/><br/>
+
 <br/>
 </pre>
 <br/>
