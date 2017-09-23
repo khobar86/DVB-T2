@@ -1,0 +1,14 @@
+#explicit binary content (reduced diff).
+
+*.exe binary
+
+*.pdf binary
+
+*.7z binary
+
+*.png binary
+
+*.jpg binary
+
+*.msu binary
+
