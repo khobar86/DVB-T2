@@ -5,13 +5,13 @@
 <pre>
 <blockquote>
 <img src="resources/logo.png"/>
-This is a mirror.<br/>
-You may download the driver(s) and application-version(s)<br/>
-in here: <a href="http://www.astrometa.com.tw/integrated_en.html">http://www.astrometa.com.tw/integrated_en.html</a><br/>
-and here: <a href="http://www.astrometa.com.tw/Previous%20Versions.html">http://www.astrometa.com.tw/Previous%20Versions.html</a><br/>
+This is a mirror.
+You may download the driver(s) and application-version(s)
+in here: <a href="http://www.astrometa.com.tw/integrated_en.html">http://www.astrometa.com.tw/integrated_en.html</a>
+and here: <a href="http://www.astrometa.com.tw/Previous%20Versions.html">http://www.astrometa.com.tw/Previous%20Versions.html</a>
 </blockquote>
 
-<br/>
+
 
 <blockquote>
 You are probably NOT holding a hybrid USB device,
@@ -21,7 +21,7 @@ if you DO need those look at the original website,
 this won't work for you.
 </blockquote>
     
-<br/>
+
 
 You want a BDA driver and a TVR application.
 You don't need the DVBC driver nor DVBC TVR.
@@ -94,18 +94,18 @@ TVR Application.
 <hr/>
 
 If you have runtime error, or your program does not run,
-download VC10 runtime from here: [4.66MB] <a href="https://github.com/eladkarako/vc-archive/raw/master/archives/vc10_(10.0.40219.1)_2010_x86.7z">vc10_(10.0.40219.1)_2010_x86.7z</a><br/>
+download VC10 runtime from here: [4.66MB] <a href="https://github.com/eladkarako/vc-archive/raw/master/archives/vc10_(10.0.40219.1)_2010_x86.7z">vc10_(10.0.40219.1)_2010_x86.7z</a>
 and extract it to the same folder as the exe files.
 
 <hr/>
 
-It is recommanded that you'll download this fix for <br/>
-TVR/DVBC TVR (v4.7.9)<br/>
+It is recommanded that you'll download this fix for 
+TVR/DVBC TVR (v4.7.9)
 
-If you've installed <code>TVR_Setup_V4.7.9.exe</code> download <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/EXE__TVR_Setup_V4.7.9.7z">EXE__TVR_Setup_V4.7.9.7z</a><br/>
+If you've installed <code>TVR_Setup_V4.7.9.exe</code> download <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/EXE__TVR_Setup_V4.7.9.7z">EXE__TVR_Setup_V4.7.9.7z</a>
 and if you've installed <code>TVR_DVBC_Setup_V4.7.9.exe</code> download <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/EXE__TVR_DVBC_Setup_V4.7.9.7z">EXE__TVR_DVBC_Setup_V4.7.9.7z</a>.
 
-Extract the 7zip archive, overwrite the existing exe files (TVRplayer.exe, RC.exe, DVBC-TVR.exe)<br/>
+Extract the 7zip archive, overwrite the existing exe files (TVRplayer.exe, RC.exe, DVBC-TVR.exe)
 it has a fixed manifest resources for better GDI+ text rendering, high-DPI screens and Windows10 support.
 
 <hr/>
@@ -117,17 +117,17 @@ Help/Starting Guide (PDF)
 <hr/>
 
 Decode Digital Content (MP4)
-Download <a href="http://www.codecguide.com/download_k-lite_codec_pack_mega.htm">K-Lite's Codec-Pack Mega</a>,<br/>
+Download <a href="http://www.codecguide.com/download_k-lite_codec_pack_mega.htm">K-Lite's Codec-Pack Mega</a>,
 it includes LAV decoder (and other codecs) with H.264 and H.265 support.
 
 On the TVR (advanced-setup) keep "external audio/video decoder" to "auto".
 
 <hr/>
 
-<img src="resources/image_2.jpg"/><br/>
-<img src="resources/image_3.jpg"/><br/>
-<img src="resources/image_4.jpg"/><br/>
-<img src="resources/image_5.jpg"/><br/>
+<img src="resources/image_2.jpg"/>
+<img src="resources/image_3.jpg"/>
+<img src="resources/image_4.jpg"/>
+<img src="resources/image_5.jpg"/>
 
 <hr/>
 
