@@ -1,7 +1,8 @@
 <h1><img src="resources/icon.png"/> Drivers And TVR For USB DVB-T/T2/C+FM+DAB</h1>
 
-<img src="resources/image_1.jpg"/><br/>
+<img src="resources/image_1.jpg"/>
 
+<pre>
 <blockquote>
 <img src="resources/logo.png"/>
 This is a mirror.<br/>
@@ -72,7 +73,6 @@ Driver(s):
     </pre>
 
 <hr/>
-<hr/>
 
 TVR Application.
 
@@ -98,7 +98,6 @@ download VC10 runtime from here: [4.66MB] <a href="https://github.com/eladkarako
 and extract it to the same folder as the exe files.
 
 <hr/>
-<hr/>
 
 It is recommanded that you'll download this fix for <br/>
 TVR/DVBC TVR (v4.7.9)<br/>
@@ -109,7 +108,6 @@ and if you've installed <code>TVR_DVBC_Setup_V4.7.9.exe</code> download <a href=
 Extract the 7zip archive, overwrite the existing exe files (TVRplayer.exe, RC.exe, DVBC-TVR.exe)<br/>
 it has a fixed manifest resources for better GDI+ text rendering, high-DPI screens and Windows10 support.
 
-<hr/>
 <hr/>
 
 Help/Starting Guide (PDF)
@@ -124,8 +122,6 @@ it includes LAV decoder (and other codecs) with H.264 and H.265 support.
 
 On the TVR (advanced-setup) keep "external audio/video decoder" to "auto".
 
-
-<hr/>
 <hr/>
 
 <img src="resources/image_2.jpg"/><br/>
@@ -134,7 +130,7 @@ On the TVR (advanced-setup) keep "external audio/video decoder" to "auto".
 <img src="resources/image_5.jpg"/><br/>
 
 <hr/>
-<hr/>
 
 Keywords:
 RTL283X,RTL2832,Astrometa,DVB-T2,DTV Filter,USB Driver,BDA Driver,AMDVBT2,Device installation,RTL2832U,Realtek Semiconduct Corp,RTL2832U IRHID Driver,HID Infrared Remote Receiver,Realtek IR Driver Disk,HID Infrared Remote Driver Disk,AMDVBT2DEV,AMDVBT2USB,Astrometa DVB-C,Astrometa DVB,Windows6.1-KB3033929-x64.msu,Windows6.1-KB3033929-x86.msu
+</pre>
