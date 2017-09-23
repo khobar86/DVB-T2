@@ -1,4 +1,4 @@
-<h1><img src="resources/icon.png"/> Drivers And TVR For USB DVB-T/T2/C+FM+DAB<h1>
+<h1><img src="resources/icon.png"/> Drivers And TVR For USB DVB-T/T2/C+FM+DAB</h1>
 
 <img src="resources/image_1.jpg"/><br/>
 
