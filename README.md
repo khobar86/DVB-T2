@@ -53,11 +53,9 @@ Driver(s):
     </blockquote>
 
     Changelog:
-    <pre>
     v170427
     - Improved stability and accuracy when scanning multi-plp channels
     - New digital signature
-    </pre>
     
   <hr/>
   
@@ -66,11 +64,9 @@ Driver(s):
     AMDVBT2 BDA driver for DVBC Build 160614        [4.12MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/AMDVBC_Setup_160614.exe">AMDVBC_Setup_160614.exe</a> &nbsp; <a href="https://www.dropbox.com/s/y2e59xh8wfx0tu5/AMDVBC_Setup_160614.exe?dl=0">mirror</a>.
 
     Changelog:
-    <pre>
     v160614
     - Improved power control, No longer hot when dongle is not in use
     - Faster firmware download, no delay on system booting
-    </pre>
 
 <hr/>
 
@@ -81,14 +77,12 @@ TVR Application.
     DVBC TVR           [18.70MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/TVR_DVBC_Setup_V4.7.9.exe">TVR_DVBC_Setup_V4.7.9.exe</a> &nbsp; <a href="https://www.dropbox.com/s/cy823cnthstyg8e/TVR_DVBC_Setup_V4.7.9.exe?dl=0">mirror</a>.
 
   Changelog:
-  <pre>
   v170504
   - Fixed several crash issues on channel scanning and switching
   - Fixed video acceleration  not supported on some Intel display cards
   - Fixed external audio decoder selection is not remembered on exit (ex. Auto)
   - Fixed no sound on some TV channels with mpeg mono audio
   - Miscellaneous bug fixes
-  </pre>
 
 <hr/>
 <hr/>
