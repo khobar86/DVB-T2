@@ -65,7 +65,7 @@ Driver(s):
 
 TVR Application.
   Latest version 4.7.9 Build 170504
-    TVR                [18.70MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/TVR_Setup_V4.7.9.exe">TVR_Setup_V4.7.9.exe</a> &nbsp;                <a href="https://www.dropbox.com/s/3t1b4jm4r6uxydp/TVR_Setup_V4.7.9.exe?dl=0">mirror</a>.
+    TVR                [18.70MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/TVR_Setup_V4.7.9.exe">TVR_Setup_V4.7.9.exe</a> &nbsp;      <a href="https://www.dropbox.com/s/3t1b4jm4r6uxydp/TVR_Setup_V4.7.9.exe?dl=0">mirror</a>.
     DVBC TVR           [18.70MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/TVR_DVBC_Setup_V4.7.9.exe">TVR_DVBC_Setup_V4.7.9.exe</a> &nbsp; <a href="https://www.dropbox.com/s/cy823cnthstyg8e/TVR_DVBC_Setup_V4.7.9.exe?dl=0">mirror</a>.
 
   Changelog:
