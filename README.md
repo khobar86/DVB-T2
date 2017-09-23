@@ -19,24 +19,24 @@ if you DO need those look at the original website,
 this won't work for you.
 </blockquote>
 
-You want a BDA driver and a TVR application.
-You don't need the DVBC driver nor DVBC TVR.
+You need to choose a driver and a TVR to watch the broadcast itself,
+<strong>You probably do not need the DVBC driver nor DVBC TVR.</strong>
 
-choose a driver (either 1.7 or 1.6) which are the same but 1.7 requires
-an additional Windows update install,
-then look below and download the application to view.
+For a driver, choose either 17xxxx or 16xxxx (older).
+the 17xxxx build also requires a installing an update for your Windows,
+you should prefer installing the 17xxxx builds.
 
 You can choose "any mix" of driver/application versions.
 
 <hr/>
 Driver(s):
 
-  Latest (v1.7):
-    AMDVBT2 BDA Driver 170427                       [4.16MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/AMDVBT2_Setup_170427.exe">AMDVBT2_Setup_170427.exe</a> &nbsp; <a href="https://www.dropbox.com/s/ffckhetzp3vmjio/AMDVBT2_Setup_170427.exe?dl=0">mirror</a>.
-    AMDVBT2 BDA driver for DVBC Build 170427        [4.17MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/AMDVBC_Setup_170427.exe" >AMDVBC_Setup_170427.exe</a> &nbsp; <a href="https://www.dropbox.com/s/g7ckkst7gib86sc/AMDVBC_Setup_170427.exe?dl=0">mirror</a>.
+  Latest: Build 170427
+    AMDVBT2 BDA Driver            [4.16MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/AMDVBT2_Setup_170427.exe">AMDVBT2_Setup_170427.exe</a> &nbsp; <a href="https://www.dropbox.com/s/ffckhetzp3vmjio/AMDVBT2_Setup_170427.exe?dl=0">mirror</a>.
+    AMDVBT2 BDA driver for DVBC   [4.17MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/AMDVBC_Setup_170427.exe" >AMDVBC_Setup_170427.exe</a> &nbsp;   <a href="https://www.dropbox.com/s/g7ckkst7gib86sc/AMDVBC_Setup_170427.exe?dl=0">mirror</a>.
 
     <blockquote>
-    Driver v1.7 requires a 'Security Update for Windows 7 (KB3033929)' which <a href="https://technet.microsoft.com/en-us/library/security/3033929.aspx">adds SHA-2 code signing support</a> for drivers.
+    Driver build 17xxxx requires a 'Security Update for Windows 7 (KB3033929)' which <a href="https://technet.microsoft.com/en-us/library/security/3033929.aspx">adds SHA-2 code signing support</a> for drivers.
       <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/Windows6.1-KB3033929-x86.msu">Windows6.1-KB3033929-x86.msu</a> &nbsp; <a href="https://www.microsoft.com/en-us/download/details.aspx?id=46148">mirror</a>.
       <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/Windows6.1-KB3033929-x64.msu">Windows6.1-KB3033929-x64.msu</a> &nbsp; <a href="https://www.microsoft.com/en-us/download/details.aspx?id=46078">mirror</a>.
     
@@ -44,7 +44,7 @@ Driver(s):
     and either double-click it or use the Windows-Update Installer:
     <code>wusa.exe "Windows6.1-KB3033929-x64.msu" /quiet /norestart</code> (for example).
     
-    if you don't want to install this you may choose the previous version (1.6) below.
+    if you don't want to install this you may choose the previous version 16xxxx below.
     </blockquote>
 
     Changelog:
@@ -53,9 +53,9 @@ Driver(s):
     - New digital signature
     
   <hr/>
-  Previous(v1.6)
-    AMDVBT2 BDA Driver 160614                       [4.12MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/AMDVBT2_Setup_160614.exe">AMDVBT2_Setup_160614.exe</a> &nbsp; <a href="https://www.dropbox.com/s/l03q4r96i520h0i/AMDVBT2_Setup_160614.exe?dl=0">mirror</a>.
-    AMDVBT2 BDA driver for DVBC Build 160614        [4.12MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/AMDVBC_Setup_160614.exe">AMDVBC_Setup_160614.exe</a> &nbsp; <a href="https://www.dropbox.com/s/y2e59xh8wfx0tu5/AMDVBC_Setup_160614.exe?dl=0">mirror</a>.
+  Previous: v160614
+    AMDVBT2 BDA Driver            [4.12MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/AMDVBT2_Setup_160614.exe">AMDVBT2_Setup_160614.exe</a> &nbsp; <a href="https://www.dropbox.com/s/l03q4r96i520h0i/AMDVBT2_Setup_160614.exe?dl=0">mirror</a>.
+    AMDVBT2 BDA driver for DVBC   [4.12MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/AMDVBC_Setup_160614.exe">AMDVBC_Setup_160614.exe</a> &nbsp;    <a href="https://www.dropbox.com/s/y2e59xh8wfx0tu5/AMDVBC_Setup_160614.exe?dl=0">mirror</a>.
 
     Changelog:
     v160614
@@ -65,7 +65,7 @@ Driver(s):
 
 TVR Application.
   Latest version 4.7.9 Build 170504
-    TVR                [18.70MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/TVR_Setup_V4.7.9.exe">TVR_Setup_V4.7.9.exe</a> &nbsp; <a href="https://www.dropbox.com/s/3t1b4jm4r6uxydp/TVR_Setup_V4.7.9.exe?dl=0">mirror</a>.
+    TVR                [18.70MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/TVR_Setup_V4.7.9.exe">TVR_Setup_V4.7.9.exe</a> &nbsp;                <a href="https://www.dropbox.com/s/3t1b4jm4r6uxydp/TVR_Setup_V4.7.9.exe?dl=0">mirror</a>.
     DVBC TVR           [18.70MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/TVR_DVBC_Setup_V4.7.9.exe">TVR_DVBC_Setup_V4.7.9.exe</a> &nbsp; <a href="https://www.dropbox.com/s/cy823cnthstyg8e/TVR_DVBC_Setup_V4.7.9.exe?dl=0">mirror</a>.
 
   Changelog:
