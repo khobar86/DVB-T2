@@ -32,13 +32,13 @@ You can choose "any mix" of driver/application versions.
 Driver(s):
 
   Latest: Build 170427
-    AMDVBT2 BDA Driver            [4.16MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/AMDVBT2_Setup_170427.exe">AMDVBT2_Setup_170427.exe</a> &nbsp; <a href="https://www.dropbox.com/s/ffckhetzp3vmjio/AMDVBT2_Setup_170427.exe?dl=0">mirror</a>.
-    AMDVBT2 BDA driver for DVBC   [4.17MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/AMDVBC_Setup_170427.exe" >AMDVBC_Setup_170427.exe</a> &nbsp;   <a href="https://www.dropbox.com/s/g7ckkst7gib86sc/AMDVBC_Setup_170427.exe?dl=0">mirror</a>.
+    AMDVBT2 BDA Driver            [4.16MB] &nbsp; <a href="https://raw.githubusercontent.com/eladkarako/DBV-T2/master/resources/AMDVBT2_Setup_170427.exe">AMDVBT2_Setup_170427.exe</a> &nbsp; <a href="https://www.dropbox.com/s/ffckhetzp3vmjio/AMDVBT2_Setup_170427.exe?dl=0">mirror</a>.
+    AMDVBT2 BDA driver for DVBC   [4.17MB] &nbsp; <a href="https://raw.githubusercontent.com/eladkarako/DBV-T2/master/resources/AMDVBC_Setup_170427.exe" >AMDVBC_Setup_170427.exe</a> &nbsp;   <a href="https://www.dropbox.com/s/g7ckkst7gib86sc/AMDVBC_Setup_170427.exe?dl=0">mirror</a>.
 
     <blockquote>
     Driver build 17xxxx requires a 'Security Update for Windows 7 (KB3033929)' which <a href="https://technet.microsoft.com/en-us/library/security/3033929.aspx">adds SHA-2 code signing support</a> for drivers.
-      <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/Windows6.1-KB3033929-x86.msu">Windows6.1-KB3033929-x86.msu</a> &nbsp; <a href="https://www.microsoft.com/en-us/download/details.aspx?id=46148">mirror</a>.
-      <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/Windows6.1-KB3033929-x64.msu">Windows6.1-KB3033929-x64.msu</a> &nbsp; <a href="https://www.microsoft.com/en-us/download/details.aspx?id=46078">mirror</a>.
+      <a href="https://raw.githubusercontent.com/eladkarako/DBV-T2/master/resources/Windows6.1-KB3033929-x86.msu">Windows6.1-KB3033929-x86.msu</a> &nbsp; <a href="https://www.microsoft.com/en-us/download/details.aspx?id=46148">mirror</a>.
+      <a href="https://raw.githubusercontent.com/eladkarako/DBV-T2/master/resources/Windows6.1-KB3033929-x64.msu">Windows6.1-KB3033929-x64.msu</a> &nbsp; <a href="https://www.microsoft.com/en-us/download/details.aspx?id=46078">mirror</a>.
     
     Download the one suited for your PC architecture,
     and either double-click it or use the Windows-Update Installer:
@@ -54,8 +54,8 @@ Driver(s):
     
   <hr/>
   Previous: v160614
-    AMDVBT2 BDA Driver            [4.12MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/AMDVBT2_Setup_160614.exe">AMDVBT2_Setup_160614.exe</a> &nbsp; <a href="https://www.dropbox.com/s/l03q4r96i520h0i/AMDVBT2_Setup_160614.exe?dl=0">mirror</a>.
-    AMDVBT2 BDA driver for DVBC   [4.12MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/AMDVBC_Setup_160614.exe">AMDVBC_Setup_160614.exe</a> &nbsp;    <a href="https://www.dropbox.com/s/y2e59xh8wfx0tu5/AMDVBC_Setup_160614.exe?dl=0">mirror</a>.
+    AMDVBT2 BDA Driver            [4.12MB] &nbsp; <a href="https://raw.githubusercontent.com/eladkarako/DBV-T2/master/resources/AMDVBT2_Setup_160614.exe">AMDVBT2_Setup_160614.exe</a> &nbsp; <a href="https://www.dropbox.com/s/l03q4r96i520h0i/AMDVBT2_Setup_160614.exe?dl=0">mirror</a>.
+    AMDVBT2 BDA driver for DVBC   [4.12MB] &nbsp; <a href="https://raw.githubusercontent.com/eladkarako/DBV-T2/master/resources/AMDVBC_Setup_160614.exe">AMDVBC_Setup_160614.exe</a> &nbsp;    <a href="https://www.dropbox.com/s/y2e59xh8wfx0tu5/AMDVBC_Setup_160614.exe?dl=0">mirror</a>.
 
     Changelog:
     v160614
@@ -65,8 +65,8 @@ Driver(s):
 
 TVR Application.
   Latest version 4.7.9 Build 170504
-    TVR                [18.70MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/TVR_Setup_V4.7.9.exe">TVR_Setup_V4.7.9.exe</a> &nbsp;      <a href="https://www.dropbox.com/s/3t1b4jm4r6uxydp/TVR_Setup_V4.7.9.exe?dl=0">mirror</a>.
-    DVBC TVR           [18.70MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/TVR_DVBC_Setup_V4.7.9.exe">TVR_DVBC_Setup_V4.7.9.exe</a> &nbsp; <a href="https://www.dropbox.com/s/cy823cnthstyg8e/TVR_DVBC_Setup_V4.7.9.exe?dl=0">mirror</a>.
+    TVR                [18.70MB] &nbsp; <a href="https://raw.githubusercontent.com/eladkarako/DBV-T2/master/resources/TVR_Setup_V4.7.9.exe">TVR_Setup_V4.7.9.exe</a> &nbsp;      <a href="https://www.dropbox.com/s/3t1b4jm4r6uxydp/TVR_Setup_V4.7.9.exe?dl=0">mirror</a>.
+    DVBC TVR           [18.70MB] &nbsp; <a href="https://raw.githubusercontent.com/eladkarako/DBV-T2/master/resources/TVR_DVBC_Setup_V4.7.9.exe">TVR_DVBC_Setup_V4.7.9.exe</a> &nbsp; <a href="https://www.dropbox.com/s/cy823cnthstyg8e/TVR_DVBC_Setup_V4.7.9.exe?dl=0">mirror</a>.
 
   Changelog:
   v170504
@@ -85,15 +85,15 @@ and extract it to the same folder as the exe files.
 It is recommanded that you'll download this fix for 
 TVR/DVBC TVR (v4.7.9)
 
-If you've installed <code>TVR_Setup_V4.7.9.exe</code> download <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/EXE__TVR_Setup_V4.7.9.7z">EXE__TVR_Setup_V4.7.9.7z</a>
-and if you've installed <code>TVR_DVBC_Setup_V4.7.9.exe</code> download <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/EXE__TVR_DVBC_Setup_V4.7.9.7z">EXE__TVR_DVBC_Setup_V4.7.9.7z</a>.
+If you've installed <code>TVR_Setup_V4.7.9.exe</code> download <a href="https://raw.githubusercontent.com/eladkarako/DBV-T2/master/resources/EXE__TVR_Setup_V4.7.9.7z">EXE__TVR_Setup_V4.7.9.7z</a>
+and if you've installed <code>TVR_DVBC_Setup_V4.7.9.exe</code> download <a href="https://raw.githubusercontent.com/eladkarako/DBV-T2/master/resources/EXE__TVR_DVBC_Setup_V4.7.9.7z">EXE__TVR_DVBC_Setup_V4.7.9.7z</a>.
 
 Extract the 7zip archive, overwrite the existing exe files (TVRplayer.exe, RC.exe, DVBC-TVR.exe)
 it has a fixed manifest resources for better GDI+ text rendering, high-DPI screens and Windows10 support.
 
 <hr/>
 Help/Starting Guide (PDF)
-  [1.38MB] &nbsp; <a href="https://github.com/eladkarako/DVBT2/raw/master/resources/AstroMeta_TVR.pdf">AstroMeta_TVR.pdf</a> &nbsp; <a href="http://www.astrometa.com.tw/Files/AstroMeta%20TVR.pdf">mirror</a>.
+  [1.38MB] &nbsp; <a href="https://raw.githubusercontent.com/eladkarako/DBV-T2/master/resources/AstroMeta_TVR.pdf">AstroMeta_TVR.pdf</a> &nbsp; <a href="http://www.astrometa.com.tw/Files/AstroMeta%20TVR.pdf">mirror</a>.
 
 <hr/>
 Decode Digital Content (MP4)
